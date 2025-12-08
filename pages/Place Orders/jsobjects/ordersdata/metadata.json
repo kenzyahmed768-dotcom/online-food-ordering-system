@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "69370c898774656f93e35dcf_826a44f3-64f0-4916-b35d-78cda982ccef",
+  "id": "Place Orders_ordersdata",
+  "unpublishedCollection": {
+    "name": "ordersdata",
+    "pageId": "Place Orders",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "data",
+        "value": "[{\n  \"ID\": \"OR00001\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"Alice\",\n  \"Items\": \"2 x Pepperoni Pizza\",\n  \"Status\": \"Pending\",\n  \"Amount\": \"$20.00\"\n}, {\n  \"ID\": \"OR00002\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"Bob\",\n  \"Items\": \"1 x Cheeseburger\",\n  \"Status\": \"Completed\",\n  \"Amount\": \"$15.00\"\n}, {\n  \"ID\": \"OR00003\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"Charlie\",\n  \"Items\": \"3 x California Roll\",\n  \"Status\": \"Preparing\",\n  \"Amount\": \"$25.00\"\n}, {\n  \"ID\": \"OR00004\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"Diana\",\n  \"Items\": \"1 x Spaghetti, 1 x Garlic Bread\",\n  \"Status\": \"Pending\",\n  \"Amount\": \"$18.00\"\n}, {\n  \"ID\": \"OR00005\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"Evan\",\n  \"Items\": \"2 x Beef Taco\",\n  \"Status\": \"Completed\",\n  \"Amount\": \"$12.00\"\n}, {\n  \"ID\": \"OR00006\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"Fiona\",\n  \"Items\": \"1 x Margherita Pizza\",\n  \"Status\": \"Cancelled\",\n  \"Amount\": \"$10.00\"\n}, {\n  \"ID\": \"OR00007\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"George\",\n  \"Items\": \"2 x Veggie Burger\",\n  \"Status\": \"Preparing\",\n  \"Amount\": \"$14.00\"\n}, {\n  \"ID\": \"OR00008\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"Hannah\",\n  \"Items\": \"4 x Salmon Nigiri\",\n  \"Status\": \"Pending\",\n  \"Amount\": \"$30.00\"\n}, {\n  \"ID\": \"OR00009\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"Ian\",\n  \"Items\": \"2 x Lasagna\",\n  \"Status\": \"Completed\",\n  \"Amount\": \"$22.00\"\n}, {\n  \"ID\": \"OR00010\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"Julia\",\n  \"Items\": \"3 x Chicken Taco\",\n  \"Status\": \"Cancelled\",\n  \"Amount\": \"$18.00\"\n}, {\n  \"ID\": \"OR00011\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"Kevin\",\n  \"Items\": \"1 x Pepperoni Pizza, 1 x Coke\",\n  \"Status\": \"Preparing\",\n  \"Amount\": \"$15.00\"\n}, {\n  \"ID\": \"OR00012\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"Laura\",\n  \"Items\": \"2 x Cheeseburger, 2 x Fries\",\n  \"Status\": \"Pending\",\n  \"Amount\": \"$20.00\"\n}, {\n  \"ID\": \"OR00013\",\n  \"Order_date\": \"2025-12-08\",\n  \"Customer\": \"Mike\",\n  \"Items\": \"5 x California Roll\",\n  \"Status\": \"Completed\",\n  \"Amount\": \"$35.00\"\n}]"
+      }
+    ]
+  }
+}
