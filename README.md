@@ -1,11 +1,6 @@
-![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
+“A prototype of an Online Food Ordering System designed for restaurant staff. 
+The app allows staff to view all customer orders, update order statuses, 
+and check order details such as billing, phone, and shipping address. 
+Built using Appsmith as a low-code solution for order fulfillment tracking.
 
-This app is built using Appsmith. Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
-
-![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/images/integrations.png)
-
-### [Github](https://github.com/appsmithorg/appsmith) • [Docs](https://docs.appsmith.com/?utm_source=github&utm_medium=social&utm_content=appsmith_docs&utm_campaign=null&utm_term=appsmith_docs) • [Community](https://community.appsmith.com/) • [Tutorials](https://github.com/appsmithorg/appsmith/tree/update/readme#tutorials) • [Youtube](https://www.youtube.com/appsmith) • [Discord](https://discord.gg/rBTTVJp)
-
-##### You can visit the application using the below link
-
-###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://grocerystore.appsmith.com/applications/69370c898774656f93e35dcf/pages/69370c898774656f93e35dd6) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://grocerystore.appsmith.com/applications/69370c898774656f93e35dcf/pages/69370c898774656f93e35dd6/edit)
+ "C:\Users\Dell\Desktop\online food ordering system\README.md"
