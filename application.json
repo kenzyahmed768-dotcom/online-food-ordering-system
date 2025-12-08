@@ -33,7 +33,7 @@
   "icon": "shopper",
   "pages": [
     {
-      "id": "Authentication",
+      "id": "staff login",
       "isDefault": false
     },
     {

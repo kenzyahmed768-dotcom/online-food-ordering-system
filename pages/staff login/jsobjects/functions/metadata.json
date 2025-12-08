@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "69370c898774656f93e35dcf_6de4ed3c-f39a-4a8f-b5e6-4dd2dbf57097",
+  "id": "staff login_functions",
+  "unpublishedCollection": {
+    "name": "functions",
+    "pageId": "staff login",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "defaultTab",
+        "value": "'Sign In'"
+      }
+    ]
+  }
+}
